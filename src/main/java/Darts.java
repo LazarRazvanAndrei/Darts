@@ -1,3 +1,5 @@
+//Darts class in MASTER
+
 public class Darts {
     enum Multiplier {
         DOUBLE, TRIPLE, XX;
